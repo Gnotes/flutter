@@ -12,6 +12,7 @@
 - [flutter Github](https://github.com/flutter/flutter)
 - [Flutter中文网](https://flutterchina.club/)
 - [Flutter Official Web Site](https://flutter.io/)
+- [Dart 基本语法](https://github.com/Gnotes/dart)
 - [Dart 简单介绍](https://book.flutterchina.club/chapter1/dart.html) 👍
 - [Flutter 实战](https://book.flutterchina.club/) 👍
 - [宁浩网 - Flutter入门到精通全套(上)](https://www.bilibili.com/video/av49554917) `视频`
