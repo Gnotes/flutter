@@ -14,3 +14,7 @@
 - [Flutter Official Web Site](https://flutter.io/)
 - [Dart 简单介绍](https://book.flutterchina.club/chapter1/dart.html) 👍
 - [Flutter 实战](https://book.flutterchina.club/) 👍
+- [宁浩网 - Flutter入门到精通全套(上)](https://www.bilibili.com/video/av49554917) `视频`
+- [宁浩网 - Flutter入门到精通全套(中)](https://www.bilibili.com/video/av49575168) `视频`
+- [宁浩网 - Flutter入门到精通全套(下)](https://www.bilibili.com/video/av49575435) `视频`
+
