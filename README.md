@@ -7,6 +7,7 @@
 - [环境搭建](环境搭建/)
 - [初始化项目](./initial.md)
 - [自定义VSCode代码片段](./snippets.md)
+- [开发检测工具](./inspector.md)
 
 ## 示例项目
 
