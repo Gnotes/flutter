@@ -28,4 +28,5 @@
 - [宁浩网 - Flutter入门到精通全套(上)](https://www.bilibili.com/video/av49554917) `视频`
 - [宁浩网 - Flutter入门到精通全套(中)](https://www.bilibili.com/video/av49575168) `视频`
 - [宁浩网 - Flutter入门到精通全套(下)](https://www.bilibili.com/video/av49575435) `视频`
+- [awesome-flutter](https://github.com/Solido/awesome-flutter)
 
